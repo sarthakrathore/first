@@ -1,0 +1,11 @@
+distributed version control system
+
+In git every party have all the files in the folder
+
+1)Git uses snapshots to check updated versions
+
+Git has three states
+1)modified
+2)staged
+3)commited
+
