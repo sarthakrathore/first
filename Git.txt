@@ -9,3 +9,9 @@ Git has three states
 2)staged
 3)commited
 
+git init
+git add filename
+git commit -m ''
+git remote
+git push -u origin master
+
